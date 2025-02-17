@@ -16,10 +16,20 @@ This project was inspired with my friend's business idea.
 
 ## -> OVERVIEW
 ### 1.First we need to run the server using NodeJs
+<p align="center">
+  <img src="images/login.png" width="500">
+</p>
+
 #### ->Then we can access the Application using localhost sever i.e (http://localhost:3000/)
 #### ->It directs to the login page.
 
 ### 2. What happens in the Login Page..?
+<p align="center">
+  <img src="images/login.png" width="500">
+  <img src="images/register.png" width="500">
+  <img src="images/loginok.png" width="500">
+</p>
+
 #### ->Here i used real time application athentication, means if user is first time using this application he needs to register.
 #### ->If user perform login without having account, he/she experience the user not found message. 
 #### ->All user data will be stored in Mysql database, which automatically connects when i run the server.
