@@ -17,7 +17,8 @@ This project was inspired with my friend's business idea.
 ## -> OVERVIEW
 ### 1.First we need to run the server using NodeJs
 <p align="center">
-  <img src="images/login.png" width="500">
+  <img src="images/running server.png" width="700">
+  <img src="images/login.png" width="700">
 </p>
 
 #### ->Then we can access the Application using localhost sever i.e (http://localhost:3000/)
@@ -27,7 +28,7 @@ This project was inspired with my friend's business idea.
 <p align="center">
   <img src="images/login.png" width="500">
   <img src="images/register.png" width="500">
-  <img src="images/loginok.png" width="500">
+  <img src="images/loginok.png" width="700">
 </p>
 
 #### ->Here i used real time application athentication, means if user is first time using this application he needs to register.
@@ -36,17 +37,32 @@ This project was inspired with my friend's business idea.
 ####
 
 ### 3.After Login..?
+<p align="center">
+  <img src="images/dashboard1.png" width="500">
+  <img src="images/dashboard2.png" width="500">
+  <img src="images/dashboard3.png" width="500">
+  <img src="images/dashboard4.png" width="500">
+  <img src="images/dashboard5.png" width="500">
+  <img src="images/dashboard6.png" width="500">
+</p>
 #### ->After login, user can see the dashboard, which contains meat products like Chicken, Mutton and Fish.
 #### ->While displaying the dashboard, i made some animations like, images will slide to its position and welcome message is droped from top for good apperance.
 #### ->In the dashboard, user selects meat and clicks add to cart buttton under the image what he/she wants.
 
 ### 4. What happens after clicking add to cart..?
+<p align="center">
+  <img src="images/cart.png" width="500">
+  <img src="images/userdetails.png" width="500">
+</p>
 #### ->User will see the meat products that he added to the cart with product name, price and quantity.
 #### ->If he/she wants preferred quantity, EX:1kg,1.5kg,2kg,3kg... automatically price will be updated with preferred quantity.
 #### ->TotalPrice will be displayed at the bottom. And their is a user details section, where he/she needs to enter the details like, Name, Phone.no, Address.
 #### ->User clicks place order button to place the order.
 
 ## 5. What happens after placing the order..?
+<p align="center">
+  <img src="images/orderplaced.png" width="700">
+</p>
 #### ->User will see the successfully order placed message.
 #### ->In the backend after clicking place order button, These user details and total price are stored in my Mysql database to deliver the meat to home address. And for also doing analysis for the business using SQL queries.
 #### ->
