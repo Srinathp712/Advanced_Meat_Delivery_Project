@@ -6,7 +6,6 @@ This project was inspired with my friend's business idea.
 ### Problem Statement
 ### Overview
 ### Code
-### Conclusion
 
 ## -> OBJECTIVE
 ### This application is used to deliver the fresh meat to the home as per customers request.
@@ -45,6 +44,7 @@ This project was inspired with my friend's business idea.
   <img src="images/dashboard5.png" width="500">
   <img src="images/dashboard6.png" width="500">
 </p>
+
 #### ->After login, user can see the dashboard, which contains meat products like Chicken, Mutton and Fish.
 #### ->While displaying the dashboard, i made some animations like, images will slide to its position and welcome message is droped from top for good apperance.
 #### ->In the dashboard, user selects meat and clicks add to cart buttton under the image what he/she wants.
@@ -54,17 +54,19 @@ This project was inspired with my friend's business idea.
   <img src="images/cart.png" width="500">
   <img src="images/userdetails.png" width="500">
 </p>
+
 #### ->User will see the meat products that he added to the cart with product name, price and quantity.
 #### ->If he/she wants preferred quantity, EX:1kg,1.5kg,2kg,3kg... automatically price will be updated with preferred quantity.
 #### ->TotalPrice will be displayed at the bottom. And their is a user details section, where he/she needs to enter the details like, Name, Phone.no, Address.
 #### ->User clicks place order button to place the order.
 
-## 5. What happens after placing the order..?
+### 5. What happens after placing the order..?
 <p align="center">
   <img src="images/orderplaced.png" width="700">
 </p>
+
 #### ->User will see the successfully order placed message.
 #### ->In the backend after clicking place order button, These user details and total price are stored in my Mysql database to deliver the meat to home address. And for also doing analysis for the business using SQL queries.
-#### ->
+
 
 
